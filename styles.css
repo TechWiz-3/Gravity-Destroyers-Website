@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+  }
+  
+h1 {
+    color: navy;
+  }
+
+.heading {
+    display:inline;
+    text-align: center;
+}
+
+.headingText {
+
+    text-align: center;
+        
+}
+.logo {
+    float:left;
+    padding-left: 300px;
+    display: inline;
+    height : 100px;
+    width : 100px;
+
+}
+
