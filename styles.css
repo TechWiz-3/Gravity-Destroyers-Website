@@ -30,3 +30,8 @@ h1 {
 .logo.inline { float:left; }
 .headingText.inline {float:left; padding-left: 15px;}
 
+.mission {
+  text-align: center;
+  padding-top: 100px;
+}
+
