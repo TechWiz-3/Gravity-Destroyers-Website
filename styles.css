@@ -15,14 +15,18 @@ h1 {
 .headingText {
 
     text-align: center;
+    font-size: 30px;
         
 }
 .logo {
     float:left;
     padding-left: 300px;
+    padding-top: 27px;
     display: inline;
-    height : 100px;
-    width : 100px;
+    height : 30px;
+    width : 30px;
 
 }
+.logo.inline { float:left; }
+.headingText.inline {float:left; padding-left: 20px;}
 
