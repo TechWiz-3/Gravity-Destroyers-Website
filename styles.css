@@ -1,6 +1,7 @@
 body {
     background-color: lightblue;
     text-align: center;
+    align-items: center;
   }
   
 h1 {
@@ -19,7 +20,7 @@ h1 {
         
 }
 .logo {
-    float:left;
+    /* float:left; */
     padding-left: 300px;
     padding-top: 20px;
     display: inline;
@@ -27,11 +28,11 @@ h1 {
     width : 40px;
 
 }
-.logo.inline { float:left; }
-.headingText.inline {float:left; padding-left: 15px;}
+.logo.inline {float:left; }
+.headingText.inline {float:left; padding-left: 15px;} */
 
 .mission {
   text-align: center;
-  padding-top: 100px;
+  color: rgb(147, 147, 45);
 }
 
