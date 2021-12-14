@@ -21,12 +21,12 @@ h1 {
 .logo {
     float:left;
     padding-left: 300px;
-    padding-top: 27px;
+    padding-top: 20px;
     display: inline;
-    height : 30px;
-    width : 30px;
+    height : 40px;
+    width : 40px;
 
 }
 .logo.inline { float:left; }
-.headingText.inline {float:left; padding-left: 20px;}
+.headingText.inline {float:left; padding-left: 15px;}
 
